@@ -6,7 +6,7 @@ __Know of an open position that offers a four day work week? Open a pull request
 
 ## Open Positions
 
-* [Wildbit](https://wildbit.com/jobs) (Wildbit advertises a 4-day work week, but it seems [it could change](https://wildbit.com/blog/2017/10/19/4-day-work-week-update).
+* [Wildbit](https://wildbit.com/jobs) (Wildbit advertises a 4-day work week, but it seems [it could change](https://wildbit.com/blog/2017/10/19/4-day-work-week-update).)
 
 ## Other 4 day(-ish) job boards
 
