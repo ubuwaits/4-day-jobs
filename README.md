@@ -17,6 +17,7 @@ __Know of an open position that offers a four-day work week? Open a pull request
 
 * [30 Hour Jobs](https://jobs.30hourjobs.com)
 
-## Other resources
+## Resources & Communities
 
+* https://www.4dayweek.co.uk
 * https://4dayweek.com
