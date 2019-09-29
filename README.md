@@ -6,9 +6,12 @@ __Know of an open position that offers a four-day work week? Open a pull request
 
 ## Open Positions
 
-* [Senior Software Engineer at Postmark](https://wildbit.com/jobs) — Remote (Parent company Wildbit advertises a four-day work week, but it seems [it could change](https://wildbit.com/blog/2017/10/19/4-day-work-week-update).)
+* [Senior Software Engineer at Postmark](https://wildbit.com/jobs) — Remote 
+<br>_Parent company Wildbit advertises a four-day work week, but it seems [it could change](https://wildbit.com/blog/2017/10/19/4-day-work-week-update)._
 
-* [Monograph](https://monograph.io) (Company has [talked about](https://www.huffpost.com/entry/four-day-working-week-overwork-life-balance_n_5c360351e4b0f5aba7da3d5a) having a four-day work week, but currently has no openings.)
+## Companies offering four-day work week
+* [Monograph](https://monograph.io) — San Francisco, CA 
+<br>_Company has [talked about](https://www.huffpost.com/entry/four-day-working-week-overwork-life-balance_n_5c360351e4b0f5aba7da3d5a) having a four-day work week, but currently has no openings._
 
 ## Other 4-day(-ish) job boards
 
