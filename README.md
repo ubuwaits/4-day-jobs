@@ -8,6 +8,8 @@ __Know of an open position that offers a four-day work week? Open a pull request
 
 * [Senior Software Engineer at Postmark](https://wildbit.com/jobs) — Remote 
 <br>_Parent company Wildbit advertises a four-day work week, but it seems [it could change](https://wildbit.com/blog/2017/10/19/4-day-work-week-update)._
+* [Four positions at Perpetual Guardian](https://www.seek.co.nz/perpetual-guardian-jobs) — Auckland & Christchurch, NZ
+<br> _Company has said its four-day work week is a [permanent policy](https://www.perpetualguardian.co.nz/news/the-four-day-week-is-here)_
 
 ## Companies offering four-day work week
 * [Monograph](https://monograph.io) — San Francisco, CA 
