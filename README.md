@@ -4,6 +4,10 @@ There are now a handful of job boards dedicated to remote jobs, but I have yet t
 
 __Know of an open position that offers a four day work week? Open a pull request and add it below.__
 
+## Other 4 day(-ish) job boards
+
+* [30 Hour Jobs](https://jobs.30hourjobs.com)
+
 ## Open Positions
 
 * None yet :(
