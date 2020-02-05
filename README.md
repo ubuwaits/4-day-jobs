@@ -5,7 +5,7 @@ There are now a handful of job boards dedicated to remote jobs, but I have yet t
 __Know of an open position that offers a four-day work week? Open a pull request and add it below.__
 
 ## Open Positions
-* [Frontend Engineer](https://monograph.io/jobs/frontend/) at [Monograph](https://monograph.io) — San Francisco, CA 
+* [Frontend Engineer](https://monograph.netlify.com/jobs/frontend/) at [Monograph](https://monograph.io) — San Francisco, CA 
 <br> 4 day week (32 hours)
 
 * [Senior Software Engineer at Postmark](https://wildbit.com/jobs) — Remote 
