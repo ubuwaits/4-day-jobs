@@ -15,7 +15,7 @@ __Know of an open position that offers a four-day work week? Open a pull request
 <br> _Company has said its four-day work week is a [permanent policy](https://www.perpetualguardian.co.nz/news/the-four-day-week-is-here)._
 
 ## Other 4-day(-ish) job boards
-* [30 Hour Jobs](https://jobs.30hourjobs.com)
+* [30 Hour Jobs](https://30hourjobs.com)
 
 ## Resources & Communities
 * https://www.4dayweek.co.uk
