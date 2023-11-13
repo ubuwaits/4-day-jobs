@@ -4,6 +4,7 @@ __Know of an open position that offers a four-day work week? Open a pull request
 
 ## Other 4-day(-ish) job boards
 * [4 day Work Week Jobs](https://4dayweek.io)
+* [4 day Week Job Board](https://okjob.io)
 
 ## Resources & Communities
 * https://www.4dayweek.co.uk
